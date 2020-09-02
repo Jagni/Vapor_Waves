@@ -1,4 +1,4 @@
 # Vapor_Waves
 An experiment with the HE_Mesh library
 
-![alt text](http://i.giphy.com/JWiernWF2tWFi.gif "Waves")
+![example GIF](https://i.giphy.com/media/dxHtwViM4SI4vFX73I/giphy.webp "Waves")
